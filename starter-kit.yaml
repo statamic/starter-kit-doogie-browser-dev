@@ -1,0 +1,15 @@
+export_paths:
+  - content
+  - resources/blueprints
+  - resources/css
+  - resources/js
+  - resources/views
+  - resources/fonts
+  - routes/web.php
+  - public/assets
+  - public/css
+  - public/js
+  - package.json
+  - tailwind.config.js
+  - vite.config.js
+  - README.md
